@@ -1,0 +1,10 @@
+templateScript: /forge-enterprise-sample/templates/pages/dummy-page.ftl
+renderType: freemarker
+visible: true
+dialog: forge-enterprise-sample:pages/dummy-page-properties
+areas:
+  main:
+    renderType: freemarker
+    availableComponents:
+      dummy-component:
+        id: forge-enterprise-sample:components/dummy-component

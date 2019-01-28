@@ -1,0 +1,2 @@
+templateScript: /forge-enterprise-sample/templates/components/dummy-component.ftl
+renderType: freemarker
