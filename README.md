@@ -2,12 +2,16 @@
 
 [![Build Status](https://travis-ci.com/magnolia-community/forge-enterprise-sample.svg?branch=master)](https://travis-ci.com/magnolia-community/forge-enterprise-sample)
 
+This page describes required steps in case you want to do a Forge module that 
+uses Magnolia Enterprise dependencies. Please make sure to read [the Forge 
+Community sample][ce-readme] first.
+
 ## Nexus authentication
 
 In order to download enterprise dependencies from Magnolia's Nexus, the Travis 
 job that builds your module needs to authenticate itself. You must therefore 
-provide Travis' Maven the credentials you were given when your Forge project 
-was created. This is done with environment variables.
+provide Travis' Maven your enterprise credentials. This is done with 
+environment variables.
 
 You can either add those in Travis' web interface, or have them in 
 `.travis.yml`, like this:
@@ -32,3 +36,4 @@ Group][google-group].
 
 [blueprint]:https://github.com/magnolia-community/forge-community-sample/blob/master/README-blueprint.md
 [magnolia-community]:https://github.com/magnolia-community
+[ce-readme]:https://github.com/magnolia-community/forge-community-sample
