@@ -1,6 +1,6 @@
 # Forge Enterprise Sample
 
-[![Build Status](https://travis-ci.com/magnolia-community/forge-enterprise-sample.svg?branch=master)](https://travis-ci.com/magnolia-community/forge-enterprise-sample)
+[![Build Status](https://travis-ci.com/magnolia-community/forge-enterprise-sample.svg?branch=master)](https://travis-ci.com/magnolia-community/forge-enterprise-sample) [![Magnolia compatibility](https://img.shields.io/badge/magnolia-6.0-brightgreen.svg)](https://www.magnolia-cms.com)
 
 This page describes required steps in case you want to do a Forge module that 
 uses Magnolia Enterprise dependencies. Please make sure to read [the Forge 
