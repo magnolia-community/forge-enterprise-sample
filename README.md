@@ -37,3 +37,4 @@ Group][google-group].
 [blueprint]:https://github.com/magnolia-community/forge-community-sample/blob/master/README-blueprint.md
 [magnolia-community]:https://github.com/magnolia-community
 [ce-readme]:https://github.com/magnolia-community/forge-community-sample
+[google-group]:https://groups.google.com/a/magnolia-cms.com/forum/#!forum/user-list
